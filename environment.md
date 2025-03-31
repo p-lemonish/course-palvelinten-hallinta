@@ -1,5 +1,15 @@
 # Ympäristötiedot
 
+## Virtualbox
+
+```
+Version:    7.0.16
+Mem:    4096 MB
+CPU(s): 4 virtual cores
+GPU RAM:    16 MB
+Disk:   20 GB
+```
+
 ## Käyttöjärjestelmä
 ```
 Description:	Ubuntu 24.04.2 LTS
